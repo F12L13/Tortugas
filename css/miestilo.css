@@ -1,0 +1,42 @@
+body
+{
+	background-image:url:url(../BOMBAY.png)
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-attachment:fixed;
+	
+
+   background-color:#0C0
+
+}
+#encabezado
+{
+	   text-align:center;
+	  font-size:3em;
+	  color: white;
+	  	 
+}
+#contenido
+{
+text-align:left;	  
+	
+	#menu
+  {
+	  text-align:left;	  
+  }
+    
+	  
+}
+
+ul.v 
+{
+color:#F00;
+}
+img
+{
+ opacity:0.4;
+}
+ img:hover
+{
+ opacity:1.0;
+}
